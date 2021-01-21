@@ -14,3 +14,7 @@ This project uses docker-compose to mount your `~/.ssh/` to the container as rea
 `docker-compose run ssh`
 
 Then use ssh as you normally would. Enjoy!
+
+## License
+
+See LICENSE file. I chose MIT because I didn't do much here except glue awesome code together. License selected using <https://choosealicense.com/> -- a very handy tool!
